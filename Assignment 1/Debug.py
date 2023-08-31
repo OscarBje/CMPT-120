@@ -15,15 +15,15 @@ def main():
     print("2 + 2")
 
     #insert your name into this variable
-    name = ""
+    name = "Oscar"
     print("Hello, my name is ", name)
 
     #insert your best friend's name here and have it print out
-    name2 = ""
-    print("Hello, my best friend's name is ", name)
+    name2 = "Hektor"
+    print("Hello, my best friend's name is ", name2)
     
     #put your age here
-    age = 
+    age = 18
     print("I'm " + name + " and i'm " + str(age) + " years old")
     
  
